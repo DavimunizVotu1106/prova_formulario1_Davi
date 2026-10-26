@@ -1,0 +1,101 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(192, 8, 8);
+    font-size: 25px;
+}
+
+label {
+    color: rgb(192, 8, 8);
+        font-weight: bold;
+}
+
+textarea {
+    resize: none;
+}
+
+#text2 {
+    width: 200px;
+    height: 50px;
+}
+
+hr {
+    border: 7px solid rgb(192, 8, 8);
+    border-radius: 5px;
+}
+
+.exemplo1 {
+    input {
+        background-color: lightblue;
+        padding: 10px;
+
+        
+    }
+
+    
+}
+
+#submit1 {
+    background-color: yellow;
+    border: 5px solid rgb(180, 0, 180);
+    border-radius: 10px;
+}
+
+#text1 {
+    width: 40%;
+    height: 95px;
+    background-color: lightblue;
+}
+
+.exemplo3 {
+    fieldset {
+        border: 5px solid rgb(180, 0, 180);
+        border-radius: 10px;
+    }
+
+    legend {
+        color:rgb(180, 0, 180);
+    }
+
+    label {
+        color:rgb(201, 0, 201);
+    }
+
+    #submit2 {
+        color: blue;
+    }
+
+}
+
+#pesquisa {
+    padding: 15px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+#pesquisa1 {
+    padding: 13px;
+    color: red;
+    background-color: black;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.exemplo5 {
+    fieldset {
+        border: 2px solid red;
+        box-shadow: 0 0 0 1px yellow;
+    }
+
+    legend {
+        color: green;
+        font-weight: bold;
+    }
+
+    label {
+        color: green;
+    }
+
+}
